@@ -1,6 +1,20 @@
 # Dano-Airline-Data-Analysis
 
-##
+## Table of Contents
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools](#tools)
+
+[Data Cleaning](#data-cleaning)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Results](#results)
+
+[Recommendations](#recommendations)
 
 ### Project Overview
 
