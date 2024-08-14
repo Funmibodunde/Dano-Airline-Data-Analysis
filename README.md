@@ -20,6 +20,9 @@
 
 This data analysis was done to analyze customer satisfaction of Dano Airline, the aim is to provide insight on the key area that causes disatisfaction. We seek to understand the root cause of the dissatisfaction trend by evaluating different services provided and customers overall experience. 
 
+![Github airline](https://github.com/user-attachments/assets/a274211e-d9a4-4521-9146-8aa77c9f234e)
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the “Airline dataset” containing detailed information about different aspect of customer experience.
